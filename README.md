@@ -1,5 +1,7 @@
-# Alien Invasion(シューティングゲーム)
+# データの可視化
 ## 概要
+- Matplotlib, Plotlyを用いてデータの可視化を行ったプログラムです。
+- resoucesフォルダに、プログラム作成時に使ったメモやフローチャートなどを置いています。
 
 ## 参考文献一覧
 [1] Eric Matthes. "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming". No Starch Press Inc.<br>
